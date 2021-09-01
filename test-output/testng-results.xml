@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite 11" duration-ms="44620" started-at="2021-08-06T17:18:52 IST" finished-at="2021-08-06T17:19:37 IST">
+    <groups>
+    </groups>
+    <test name="Testing Window Handle" duration-ms="44620" started-at="2021-08-06T17:18:52 IST" finished-at="2021-08-06T17:19:37 IST">
+      <class name="com.qa.testscript.TC_Mutliplewindows_Handle">
+        <test-method status="PASS" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.qa.testscript.TC_Mutliplewindows_Handle@c46bcd4]" name="setUp" is-config="true" duration-ms="12816" started-at="2021-08-06T17:18:52 IST" finished-at="2021-08-06T17:19:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.google.com/gmail/about/#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="windowHadle()[pri:0, instance:com.qa.testscript.TC_Mutliplewindows_Handle@c46bcd4]" name="windowHadle" duration-ms="25362" started-at="2021-08-06T17:19:05 IST" finished-at="2021-08-06T17:19:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowHadle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testscript.TC_Mutliplewindows_Handle@c46bcd4]" name="tearDown" is-config="true" duration-ms="6335" started-at="2021-08-06T17:19:30 IST" finished-at="2021-08-06T17:19:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testscript.TC_Mutliplewindows_Handle -->
+    </test> <!-- Testing Window Handle -->
+  </suite> <!-- Test Suite 11 -->
+</testng-results>
